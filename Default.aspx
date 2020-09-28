@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <div>
             Sample Application for AZ204
+            AZ205
         </div>
     </form>
 </body>
